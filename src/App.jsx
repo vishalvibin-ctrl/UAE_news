@@ -158,8 +158,8 @@ const ReelSlide = ({ item, index, total, gradient }) => {
       )}
 
       <div style={{
-        position:"relative",zIndex:2,flex:1,display:"flex",flexDirection:"column",justifyContent:"flex-end",
-        padding:"0 24px 110px",
+        position:"relative",zIndex:2,flex:1,display:"flex",flexDirection:"column",justifyContent:"center",
+        padding:"70px 24px 110px",
       }}>
         {/* Top bar */}
         <div style={{ position:"absolute",top:16,left:24,right:24,display:"flex",justifyContent:"space-between",alignItems:"center" }}>
