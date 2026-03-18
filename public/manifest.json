@@ -1,0 +1,10 @@
+{
+  "name": "UAE Daily — News Briefing",
+  "short_name": "UAE News",
+  "description": "Daily UAE news — Finance, Banking & General",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080C14",
+  "theme_color": "#0C1220",
+  "orientation": "portrait"
+}
